@@ -1,1 +1,1 @@
-# website2
+# this is simple design of home page ..
