@@ -1,0 +1,188 @@
+﻿.row1 {
+    background-color: #A57ABD;
+    height: 700px;
+    width: 1100px;
+}
+
+.row2 {
+    height: 100px;
+    width: 1100px;
+    background-color: #7FA9D3;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    color: white;
+}
+
+.row3 {
+    height: 40px;
+    width: 1100px;
+    background-color: #4cff00;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    color: white;
+}
+
+.home {
+    height: 40px;
+    width: 300px;
+    background-color: #7F82D3;
+    float: left;
+}
+
+.about {
+    height: 40px;
+    width: 200px;
+    background-color: #B7BB6D;
+    float: left;
+}
+
+.course {
+    height: 40px;
+    width: 200px;
+    background-color: #BB9C6D;
+    float: left;
+}
+
+.gallery {
+    height: 40px;
+    width: 200px;
+    background-color: #BB7D6D;
+    float: left;
+}
+
+.contact {
+    height: 40px;
+    width: 200px;
+    background-color: #6DBB8C;
+    float: left;
+}
+
+.row4 {
+    height: 200px;
+    width: 1100px;
+    background-color: #70BB6D;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    color: white;
+}
+
+.row4-col1 {
+    height: 200px;
+    width: 300px;
+    background-color: #6DA56B;
+    float: left;
+}
+
+.row4-col2 {
+    height: 200px;
+    width: 800px;
+    background-color: #b96123;
+    float: left;
+}
+
+.home1 {
+    height: 40px;
+    width: 300px;
+    background-color: #a11b1b;
+}
+
+.about1 {
+    height: 40px;
+    width: 300px;
+    background-color: #25b55c;
+}
+
+.course1 {
+    height: 40px;
+    width: 300px;
+    background-color: #766a07;
+}
+
+.gallery1 {
+    height: 40px;
+    width: 300px;
+    background-color: #30742b;
+}
+
+.contact1 {
+    height: 40px;
+    width: 300px;
+    background-color: #808080;
+}
+
+.client {
+    height: 150px;
+    width: 1100px;
+    background-color: #708D6F;
+    text-align: center;
+    line-height: 150px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    color: white;
+}
+
+.image {
+    height: 100px;
+    width: 1100px;
+    background-color: #810606;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    color: white;
+}
+
+.image1 {
+    height: 100px;
+    width: 366.6px;
+    background-color: #2d052e;
+    float: left;
+}
+
+.image2 {
+    height: 100px;
+    width: 366.6px;
+    background-color: #144d0b;
+    float: left;
+}
+
+.image3 {
+    height: 100px;
+    width: 366.6px;
+    background-color: #48cf57;
+    float: left;
+}
+
+.footer {
+    height: 50px;
+    width: 1100px;
+    background-color: #B3BE58;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
